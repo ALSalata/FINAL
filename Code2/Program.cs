@@ -22,7 +22,7 @@
             }
         }
         //Вывод результата
-        Console.WriteLine("Новый массив строк:");
+        Console.WriteLine("Новый массив, содержащий элементы длиной не более 3 символов:");
         for (int i = 0; i < newIndex; i++)
     {
         Console.WriteLine(newArray[i]);
